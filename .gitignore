@@ -1,0 +1,7 @@
+*.pyc
+*~
+__pycache__
+apivenv
+db.sqlite3
+/static
+Thumbs.db
